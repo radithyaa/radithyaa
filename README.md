@@ -1,3 +1,4 @@
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <br><br>I'm Ahza, a passionate developer and tech enthusiast from Indonesia.<br><br>I'm currently focused on building impactful web applications using technologies like Next Js, PostgreSql, React Native, and Tauri. I enjoy crafting intuitive UI/UX with Tailwind CSS and love experimenting with full JavaScript stacks—from Next Js, React Native, Tauri, MongoDB, Express and React.<br><br>I'm driven by a desire to make technology more accessible and useful, especially in education and community settings. I also manage media and content for student organizations, and I'm always learning—whether it's digging into operating systems like Linux or understanding the logic behind mathematical formulas.<br><br>Outside of coding, I enjoy exploring productivity tools, open source projects, and the latest in consumer tech.
 
